@@ -1,0 +1,10 @@
+kind: static-website
+app: digitasaathidelivery
+team: digitalsaathi
+internal: false
+package:
+  build_dir: build/
+  index_document: index.html
+dns:
+  zone: cglcloud
+  name: digitalsaathi-delivery
